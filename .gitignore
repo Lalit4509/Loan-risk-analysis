@@ -1,0 +1,7 @@
+# Ignore datasets
+data/*.csv
+data/raw/*.csv
+data/Processed/*.csv
+
+# System files
+desktop.ini
