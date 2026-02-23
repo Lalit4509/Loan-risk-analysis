@@ -90,11 +90,11 @@ The Power BI dashboard includes:
 ##  How to Use This Project
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/Lalit4509/Loan-risk-analysis.git
 2. Open notebooks in Jupyter
 3. Open the power File for dashboard
 4. Review SQL scripts in MySQL
+
 
 
