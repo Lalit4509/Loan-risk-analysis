@@ -1,4 +1,4 @@
-# 📊 Loan Risk & Default Analysis
+# Loan Risk & Default Analysis
 
 An end-to-end data analytics project focused on analyzing loan default risk using Python, SQL, and Power BI.
 
@@ -6,7 +6,7 @@ This project explores how borrower attributes such as credit grade, debt-to-inco
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The goal of this project is to:
 
@@ -19,9 +19,9 @@ The final output is a professional Power BI dashboard supported by SQL queries a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
-# 📊 Loan Risk & Default Analysis
+#  Loan Risk & Default Analysis
 
 An end-to-end data analytics project focused on analyzing loan default risk using Python, SQL, and Power BI.
 
@@ -29,7 +29,7 @@ This project explores how borrower attributes such as credit grade, debt-to-inco
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The goal of this project is to:
 
@@ -45,7 +45,7 @@ The final output is a professional Power BI dashboard supported by SQL queries a
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib)
 - SQL (MySQL)
@@ -55,7 +55,7 @@ The final output is a professional Power BI dashboard supported by SQL queries a
 
 ---
 
-## 📈 Key Analysis Areas
+##  Key Analysis Areas
 
 - Default rate by credit grade  
 - Risk analysis by DTI bucket  
@@ -65,7 +65,7 @@ The final output is a professional Power BI dashboard supported by SQL queries a
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -78,7 +78,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Higher DTI levels are associated with higher default rates  
 - Lower credit grades show significantly higher risk  
@@ -87,7 +87,7 @@ The Power BI dashboard includes:
 
 ---
 
-## ▶️ How to Use This Project
+##  How to Use This Project
 
 1. Clone the repository:
 
@@ -96,4 +96,5 @@ git clone https://github.com/Lalit4509/Loan-risk-analysis.git
 2. Open notebooks in Jupyter
 3. Open the power File for dashboard
 4. Review SQL scripts in MySQL
+
 
